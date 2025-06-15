@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**Joaovitor-Nunes/Joaovitor-Nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=000000&center=true&vCenter=true&width=600&lines=Hi,+I'm+Joao+Vitor.;Software+Developer;Believe+in+the+power+of+information.;Think.+Learn.+Evolve.+🧠" alt="Typing SVG" />
+</h1>
 
-Here are some ideas to get you started:
+<div align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="center" alt="JV-LINUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+    <img align="center" alt="JV-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="JV-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+    <img align="center" alt="JV-DO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" />
+    <img align="center" alt="JV-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="JV-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="JV-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="JV-NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+    <img align="center" alt="JV-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="JV-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+          
+  </div><br>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/🌍%20-RS,%20Brasil-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎓%20Computer%20Science-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/💻%20SO-Ubuntu-black?style=flat-square" />
+</p>
+
+<div align="center"> 
+  <a href = "mailto:jvnloopes@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joão-vítor-nunes-lopes-256a27z" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://wa.me/5551995205755" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <a href="https://" target="_blank"> <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=firefox-browser&logoColor=orange"/>
+</div>
+
