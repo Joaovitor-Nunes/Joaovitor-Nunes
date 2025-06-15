@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=000000&center=true&vCenter=true&width=600&lines=Hi,+I'm+Joao+Vitor.;Software+Developer;Believe+in+the+power+of+information.;Think.+Learn.+Evolve.+🧠" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=000000&center=true&vCenter=true&width=600&lines=Hi,+I'm+Joao+Vitor;Software+Developer;Believe+in+the+power+of+information." alt="Typing SVG" />
 </h1>
 
 <div align="center"> 
@@ -28,7 +28,6 @@
 <div align="center"> 
   <a href = "mailto:jvnloopes@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joão-vítor-nunes-lopes-256a27z" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://wa.me/5551995205755" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   <a href="https://" target="_blank"> <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=firefox-browser&logoColor=orange"/>
 </div>
 
